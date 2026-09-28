@@ -1,0 +1,13 @@
+{
+  "name": "gradeup-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page kalkulator nilai mahasiswa dengan backend logic sederhana",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
